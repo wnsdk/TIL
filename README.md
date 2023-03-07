@@ -3,8 +3,7 @@ Today I Learn
 
 <br>
 
-### Computer Science
----
+# Computer Science
 - 자료구조...
 - 알고리즘...
 - 운영체제
@@ -16,14 +15,12 @@ Today I Learn
 
 <br>
 
-### Java
----
+# Java
 - 자바 문법...
 
 <br>
 
-### Spring
----
+# Spring
 - Srping 기본 이론
   - [Spring 기본 이론](spring/spring-%EA%B8%B0%EB%B3%B8-%EC%9D%B4%EB%A1%A0/spring-%EA%B8%B0%EB%B3%B8-%EC%9D%B4%EB%A1%A0.md)
 - Spring MVC
@@ -37,8 +34,7 @@ Today I Learn
 
 <br>
 
-### DevOps
----
+# DevOps
   - AWS
     - [AWS](dev-ops/aws/aws.md)
   - Docker
